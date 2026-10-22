@@ -1,0 +1,6 @@
+prompt_id,domain,complexity,model_a_score,model_b_score,factual_accuracy_a,factual_accuracy_b,config_correctness_a,config_correctness_b,hallucination_a,hallucination_b,confidence_score
+1,Cloud Infrastructure,High,5,3,5,3,5,2,False,True,0.95
+2,Enterprise Networking,Medium,4,4,4,4,5,4,False,False,0.88
+3,Cybersecurity,High,2,5,2,5,1,5,True,False,0.92
+4,General Reasoning,Low,5,4,5,5,0,0,False,False,0.99
+5,Telecom Telemetry,High,4,2,4,2,4,1,False,True,0.85
